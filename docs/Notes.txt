@@ -1,0 +1,6 @@
+
+https://www.mindbowser.com/hibernate-search-6-with-spring-boot/
+
+https://www.springcloud.io/post/2022-04/spring-boot-hibernate-search/#gsc.tab=0
+
+https://discourse.hibernate.org/t/hibernate-search-6-and-spring-boot-and-testing/5340/7
